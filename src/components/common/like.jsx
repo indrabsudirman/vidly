@@ -26,6 +26,7 @@ import { faHeart as faHeartRegular } from "@fortawesome/free-regular-svg-icons";
 //   }
 // }
 
+//Change to Stateless Functional Components
 const Like = (props) => {
   return (
     <FontAwesomeIcon
